@@ -1,13 +1,7 @@
+
 @font-face {
     font-family: RemoPlusPro-Normal;
-    src: url(https://raw.githubusercontent.com/serenatsay/banza/blob/master/RemoPlusPro-Normal.otf);
-    font-weight:400;
-}
-
-title {
-   font-family: 'RemoPlusPro-Normal', sans-serif !important;
-}
-body {
-  font-family: 'RemoPlusPro-Normal', sans-serif !important;
-}
-
+    src: url('https://raw.githubusercontent.com/serenatsay/banza/blob/master/RemoPlusPro-Normal.otf');
+    font-weight: 100;
+    font-style: normal;
+} 
