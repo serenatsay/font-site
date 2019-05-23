@@ -13,3 +13,11 @@ h1
   font-family: "RemoPlusPro-Normal",serif;
 
 }
+
+  title {
+    font-family: 'RemoPlusPro-Normal', sans-serif !important;
+  }
+  body {
+    font-family: 'RemoPlusPro-Normal', sans-serif !important;
+  }
+
